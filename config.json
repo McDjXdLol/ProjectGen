@@ -1,0 +1,142 @@
+{
+  "default_projects_path": "C:/Users/Michal Jereczek/Documents/Nowy folder (2)/Nowy folder/Python/ProjectGen/projects",
+  "editors": {
+    "code": {
+      "name": "Visual Studio Code",
+      "command": "code"
+    },
+    "vscode": {
+      "name": "Visual Studio Code",
+      "command": "code"
+    },
+    "pycharm": {
+      "name": "PyCharm",
+      "command": "pycharm"
+    },
+    "notepad": {
+      "name": "Notepad",
+      "command": "notepad"
+    },
+    "sublime": {
+      "name": "Sublime Text",
+      "command": "subl"
+    },
+    "atom": {
+      "name": "Atom",
+      "command": "atom"
+    },
+    "intellij": {
+      "name": "IntelliJ IDEA",
+      "command": "idea"
+    },
+    "clion": {
+      "name": "CLion",
+      "command": "clion"
+    },
+    "rider": {
+      "name": "Rider",
+      "command": "rider"
+    },
+    "vim": {
+      "name": "Vim",
+      "command": "vim"
+    },
+    "emacs": {
+      "name": "Emacs",
+      "command": "emacs"
+    }
+  },
+  "projects": {
+    "Python": {
+      "editor": "pycharm",
+      "structure": [
+        "README.md",
+        "requirements.txt",
+        "main.py"
+      ]
+    },
+    "C#": {
+      "editor": "code",
+      "structure": [
+        "README.md",
+        "Program.cs"
+      ]
+    },
+    "HTML": {
+      "editor": "atom",
+      "structure": [
+        "index.html",
+        "style.css",
+        "script.js"
+      ]
+    },
+    "TXT": {
+      "editor": "notepad",
+      "structure": [
+        "text.txt"
+      ]
+    },
+    "Java": {
+      "editor": "intellij",
+      "structure": [
+        "README.md",
+        "Main.java"
+      ]
+    },
+    "JavaScript": {
+      "editor": "code",
+      "structure": [
+        "README.md",
+        "app.js",
+        "package.json"
+      ]
+    },
+    "TypeScript": {
+      "editor": "code",
+      "structure": [
+        "README.md",
+        "app.ts",
+        "tsconfig.json"
+      ]
+    },
+    "React": {
+      "editor": "code",
+      "structure": [
+        "README.md",
+        "package.json",
+        "src/index.js",
+        "src/App.js"
+      ]
+    },
+    "NodeJS": {
+      "editor": "code",
+      "structure": [
+        "README.md",
+        "package.json",
+        "server.js"
+      ]
+    },
+    "C++": {
+      "editor": "code",
+      "structure": [
+        "README.md",
+        "main.cpp"
+      ]
+    },
+    "Rust": {
+      "editor": "code",
+      "structure": [
+        "README.md",
+        "Cargo.toml",
+        "src/main.rs"
+      ]
+    },
+    "Go": {
+      "editor": "code",
+      "structure": [
+        "README.md",
+        "main.go"
+      ]
+    }
+  }
+}
